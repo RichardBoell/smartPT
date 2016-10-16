@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "79BF28A41DB2100C00B3D5B7"
-               BuildableName = "noidea.app"
-               BlueprintName = "noidea"
-               ReferencedContainer = "container:noidea.xcodeproj">
+               BuildableName = "smartPT.app"
+               BlueprintName = "smartPT"
+               ReferencedContainer = "container:smartPT.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "79BF28B81DB2100D00B3D5B7"
-               BuildableName = "noideaTests.xctest"
-               BlueprintName = "noideaTests"
-               ReferencedContainer = "container:noidea.xcodeproj">
+               BuildableName = "smartPTTests.xctest"
+               BlueprintName = "smartPTTests"
+               ReferencedContainer = "container:smartPT.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "79BF28C31DB2100D00B3D5B7"
-               BuildableName = "noideaUITests.xctest"
-               BlueprintName = "noideaUITests"
-               ReferencedContainer = "container:noidea.xcodeproj">
+               BuildableName = "smartPTUITests.xctest"
+               BlueprintName = "smartPTUITests"
+               ReferencedContainer = "container:smartPT.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "79BF28A41DB2100C00B3D5B7"
-            BuildableName = "noidea.app"
-            BlueprintName = "noidea"
-            ReferencedContainer = "container:noidea.xcodeproj">
+            BuildableName = "smartPT.app"
+            BlueprintName = "smartPT"
+            ReferencedContainer = "container:smartPT.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "79BF28A41DB2100C00B3D5B7"
-            BuildableName = "noidea.app"
-            BlueprintName = "noidea"
-            ReferencedContainer = "container:noidea.xcodeproj">
+            BuildableName = "smartPT.app"
+            BlueprintName = "smartPT"
+            ReferencedContainer = "container:smartPT.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "79BF28A41DB2100C00B3D5B7"
-            BuildableName = "noidea.app"
-            BlueprintName = "noidea"
-            ReferencedContainer = "container:noidea.xcodeproj">
+            BuildableName = "smartPT.app"
+            BlueprintName = "smartPT"
+            ReferencedContainer = "container:smartPT.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
